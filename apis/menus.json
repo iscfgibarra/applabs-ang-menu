@@ -1,11 +1,13 @@
-[ 
-	{
-	  "id": 1,
-      "isMaterialIcon": true,
-      "icon": "dashboard",
-      "title": "Panel",
-      "subtitle": "Lista de TODOs",
-      "routerPath": "dashboard",
-      "role": "Guest"
-    }
-]
+{
+	"menus": [
+		{
+			"id": 1,
+			"isMaterialIcon": true,
+			"icon": "dashboard",
+			"title": "Panel",
+			"subtitle": "Lista de TODOs",
+			"routerPath": "dashboard",
+			"role": "Guest"
+		}
+	]
+}
